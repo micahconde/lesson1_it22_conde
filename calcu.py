@@ -1,3 +1,8 @@
+# Escrupolo:
+def add(a, b):
+    return a + b
+
+# Conde:
 def show_menu():
     print("\n=== SIMPLE CALCULATOR ===")
     print("1. Addition")
