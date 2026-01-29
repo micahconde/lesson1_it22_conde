@@ -10,6 +10,12 @@ def subtract(a, b):
 def multiply(a, b):
     return a * b
 
+#Lagnada
+def divide(a, b):
+    if b == 0:
+        return "Error: Cannot divide by zero"
+    return a / b
+
 # Conde:
 def show_menu():
     print("\n=== SIMPLE CALCULATOR ===")
